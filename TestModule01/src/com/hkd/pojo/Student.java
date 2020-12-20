@@ -6,4 +6,5 @@ package com.hkd.pojo;
  */
 public class Student {
     private int age;
+    private string name;
 }
